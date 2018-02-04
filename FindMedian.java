@@ -217,7 +217,7 @@ class DynamicMedian{
 
 }
 
-class Task16{
+class FindMedian{
 
 	public static void med3(int[] arr, int n1, int n2, int n3){
 		DynamicMedian med = new DynamicMedian();
